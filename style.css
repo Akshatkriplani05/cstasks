@@ -40,7 +40,7 @@ body
   height: 100%;
   width: 100%;
   display: grid;
-     background: #090908f7;
+     background: #b5d915f7;
   grid-template: repeat(30, 1fr) / repeat(30, 1fr);
 }
 .play-board .food 
